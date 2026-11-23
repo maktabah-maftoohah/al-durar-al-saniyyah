@@ -2,6 +2,337 @@
   "collection": "al-durar-al-saniyyah",
   "title": "Maktabah Maftoohah — Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah",
   "title_ar": "الدرر السنية في الأجوبة النجدية",
-  "seeded": true,
-  "items": []
+  "compiler": {
+    "name_ar": "الشيخ عبد الرحمن بن محمد بن قاسم العاصمي النجدي الحنبلي",
+    "name_ms": "Syeikh Abdul Rahman bin Muhammad bin Qasim al-'Asimi al-Najdi al-Hanbali",
+    "name_en": "Shaykh Abd al-Rahman ibn Muhammad ibn Qasim al-Najdi al-Hanbali",
+    "dates": "1312–1392 H (1894–1972 M)"
+  },
+  "provenance": {
+    "primary_edition": "Dar al-Qasim / Al-Maktab al-Islami / Dar al-Asimah (Tahqiq & Jam' Shaykh Abd al-Rahman ibn Qasim)",
+    "edition_notes": "Naskhah Muhaqqaqah — Edisi Lengkap 16 Jilid"
+  },
+  "metrics": {
+    "total_volumes": 16,
+    "domain": "Aqidah, Hanbali Fiqh, Rasa'il & Fatawa",
+    "historical_era": "Kurun ke-12 hingga ke-14 Hijrah"
+  },
+  "volumes": [
+    {
+      "volume": 1,
+      "title_ar": "كتاب العقائد — القسم الأول",
+      "title_ms": "Kitab Akidah — Bahagian 1: Asas Tauhid & Dalil-dalil",
+      "title_en": "Book of Creed — Part 1: Fundamentals of Tawhid & Evidences",
+      "topics_ar": "التوحيد، الأصول الثلاثة، القواعد الأربع، كشف الشبهات، شروط لا إله إلا الله",
+      "topics_ms": "Tauhid Uluhiyyah, Tiga Usul Utama, Empat Kaedah, Penjelasan Syubhat, Syarat Kalimah Syahadah",
+      "topics_en": "Tawhid al-Uluhiyyah, Three Principles, Four Foundations, Dispelling Doubts",
+      "key_scholars": [
+        "الشيخ محمد بن عبد الوهاب",
+        "الشيخ عبد الله بن محمد بن عبد الوهاب",
+        "الشيخ سليمان بن عبد الله بن محمد بن عبد الوهاب"
+      ]
+    },
+    {
+      "volume": 2,
+      "title_ar": "كتاب العقائد — القسم الثاني",
+      "title_ms": "Kitab Akidah — Bahagian 2: Iman, Kufur & Pembatal Keislaman",
+      "title_en": "Book of Creed — Part 2: Faith, Disbelief & Nullifiers of Islam",
+      "topics_ar": "الإيمان والكفر، نواقض الإسلام، الولاء والبراء، الهجرة وحكم بلاد الكفر",
+      "topics_ms": "Hakikat Iman dan Kufur, Pembatal-pembatal Islam, Al-Wala' wal-Bara', Hijrah",
+      "topics_en": "Faith and Disbelief, Nullifiers of Islam, Allegiance and Disavowal, Hijrah",
+      "key_scholars": [
+        "الشيخ محمد بن عبد الوهاب",
+        "الشيخ عبد الرحمن بن حسن آل الشيخ",
+        "الشيخ عبد اللطيف بن عبد الرحمن آل الشيخ"
+      ]
+    },
+    {
+      "volume": 3,
+      "title_ar": "كتاب العقائد — القسم الثالث",
+      "title_ms": "Kitab Akidah — Bahagian 3: Asma' wa Sifat & Takdir",
+      "title_en": "Book of Creed — Part 3: Divine Names, Attributes & Pre-decree",
+      "topics_ar": "الأسماء والصفات، القضاء والقدر، الرد على الجهمية والمعطلة، منهج السلف في الإثبات",
+      "topics_ms": "Nama-nama dan Sifat Allah, Takdir, Bantahan terhadap Jahmiyyah dan Mu'attilah, Manhaj Salaf",
+      "topics_en": "Divine Names and Attributes, Qadar, Refutation of Negationists, Creed of the Salaf",
+      "key_scholars": [
+        "الشيخ عبد الله بن محمد بن عبد الوهاب",
+        "الشيخ عبد اللطيف بن عبد الرحمن آل الشيخ",
+        "الشيخ إسحاق بن عبد الرحمن آل الشيخ"
+      ]
+    },
+    {
+      "volume": 4,
+      "title_ar": "كتاب الفقه — الطهارة والصلاة (القسم الأول)",
+      "title_ms": "Kitab Fiqh — Bersuci dan Solat (Bahagian 1)",
+      "title_en": "Book of Fiqh — Purification and Prayer (Part 1)",
+      "topics_ar": "أحكام الطهارة، المياه، الآنية، الاستنجاء، السواك، الوضوء، التيمم، صفة الصلاة",
+      "topics_ms": "Hukum Bersuci, Jenis Air, Bejana, Istinjak, Siwak, Wudhu', Tayammum, Sifat Solat",
+      "topics_en": "Rulings of Purification, Waters, Utensils, Wudu, Tayammum, Description of Prayer",
+      "key_scholars": [
+        "الشيخ محمد بن عبد الوهاب",
+        "الشيخ عبد الله بن عبد العزيز العنقري"
+      ]
+    },
+    {
+      "volume": 5,
+      "title_ar": "كتاب الفقه — تتمة كتاب الصلاة والجنائز",
+      "title_ms": "Kitab Fiqh — Pelengkap Bab Solat dan Jenazah",
+      "title_en": "Book of Fiqh — Complement of Prayer & Funerals",
+      "topics_ar": "صلاة الجماعة، صلاة الجمعة، صلاة العيدين، الكسوف والاستسقاء، أحكام الجنائز والقبور",
+      "topics_ms": "Solat Berjemaah, Solat Jumaat, Solat Dua Hari Raya, Gerhana, Istisqa', Pengurusan Jenazah dan Kubur",
+      "topics_en": "Congregational Prayer, Friday Prayer, Eid Prayers, Funeral Rulings",
+      "key_scholars": [
+        "الشيخ عبد الرحمن بن حسن آل الشيخ",
+        "الشيخ محمد بن إبراهيم آل الشيخ"
+      ]
+    },
+    {
+      "volume": 6,
+      "title_ar": "كتاب الفقه — الزكاة والصيام والاعتكاف",
+      "title_ms": "Kitab Fiqh — Zakat, Puasa dan Iktikaf",
+      "title_en": "Book of Fiqh — Zakah, Fasting & I'tikaf",
+      "topics_ar": "أحكام الزكاة، زكاة بهيمة الأنعام، زكاة الحبوب والثمار، زكاة النقدين، صدقة الفطر، صيام رمضان",
+      "topics_ms": "Hukum Zakat Harta & Ternakan, Zakat Pertanian, Zakat Emas Perak, Zakat Fitrah, Puasa Ramadan",
+      "topics_en": "Rulings of Zakah, Livestock Zakah, Zakat al-Fitr, Fasting of Ramadan, I'tikaf",
+      "key_scholars": [
+        "الشيخ عبد الله بن عبد الرحمن أبا بطين",
+        "الشيخ عبد الله بن محمد بن عبد الوهاب"
+      ]
+    },
+    {
+      "volume": 7,
+      "title_ar": "كتاب الفقه — الحج والجهاد",
+      "title_ms": "Kitab Fiqh — Haji dan Jihad",
+      "title_en": "Book of Fiqh — Hajj & Jihad",
+      "topics_ar": "مناسك الحج والعمرة، المواقيت، الإحرام، الطواف والسعي، أحكام الجهاد، عقد الذمة والهدنة",
+      "topics_ms": "Manasik Haji dan Umrah, Miqat, Ihram, Tawaf, Sa'i, Hukum Jihad, Perjanjian Damai",
+      "topics_en": "Rites of Hajj and Umrah, Miqat, Ihram, Rulings of Jihad and Treaties",
+      "key_scholars": [
+        "الشيخ محمد بن عبد الوهاب",
+        "الشيخ عبد الرحمن بن حسن آل الشيخ"
+      ]
+    },
+    {
+      "volume": 8,
+      "title_ar": "كتاب الفقه — البيوع والمعاملات المالية",
+      "title_ms": "Kitab Fiqh — Muamalat & Jual Beli",
+      "title_en": "Book of Fiqh — Financial Transactions & Sales",
+      "topics_ar": "أحكام البيع والشراء، الربا والصرف، القرض، الرهن، الضمان، الحوالة، الصلح، الشفعة، الإجارة، الوكالة",
+      "topics_ms": "Hukum Jual Beli, Riba dan Tukaran Wang, Hutang, Gadaian, Jaminan, Hawalah, Pajakan, Wakalah",
+      "topics_en": "Commercial Law, Prohibition of Riba, Mortgages, Guarantees, Leasing, Agency",
+      "key_scholars": [
+        "الشيخ عبد الله بن عبد الرحمن أبا بطين",
+        "الشيخ عبد اللطيف بن عبد الرحمن آل الشيخ"
+      ]
+    },
+    {
+      "volume": 9,
+      "title_ar": "كتاب الفقه — الفرائض والنكاح والطلاق",
+      "title_ms": "Kitab Fiqh — Faraid, Nikah dan Talak",
+      "title_en": "Book of Fiqh — Inheritance, Marriage & Divorce",
+      "topics_ar": "علم المواريث والفرائض، أركان النكاح وشروطه، الصداق، النفقات، الطلاق، الرجعة، الخلع، العدة",
+      "topics_ms": "Ilmu Faraid dan Bahagian Pusaka, Syarat & Rukun Nikah, Mahar, Nafkah, Talak, Rujuk, Khulu', Iddah",
+      "topics_en": "Inheritance Law (Fara'id), Pillars and Conditions of Marriage, Mahr, Divorce, 'Iddah",
+      "key_scholars": [
+        "الشيخ حمد بن ناصر بن عثمان بن معمر",
+        "الشيخ محمد بن إبراهيم آل الشيخ"
+      ]
+    },
+    {
+      "volume": 10,
+      "title_ar": "كتاب الفقه — الجنايات والحدود والقضاء",
+      "title_ms": "Kitab Fiqh — Jinayat, Hudud dan Kehakiman",
+      "title_en": "Book of Fiqh — Crimes, Penalties & Judiciary",
+      "topics_ar": "الجنايات، القصاص، الديات، حد الردة، حد الزنا، حد السرقة، حد القذف، القضاء والشهادات، الأيمان والنذور",
+      "topics_ms": "Jinayat, Qisas, Diyat, Had Murtad, Zina, Mencuri, Qazaf, Tatacara Kehakiman dan Saksi, Sumpah",
+      "topics_en": "Criminal Law, Retribution, Blood Money, Hudud Penalties, Judiciary, Testimonies",
+      "key_scholars": [
+        "الشيخ عبد الله بن عبد الرحمن أبا بطين",
+        "الشيخ عبد الله بن عبد العزيز العنقري"
+      ]
+    },
+    {
+      "volume": 11,
+      "title_ar": "كتاب المكاتيب والرسائل — مكاتيب الشيخ محمد بن عبد الوهاب",
+      "title_ms": "Surat-menyurat & Risalah — Syeikh Muhammad bin Abdul Wahhab",
+      "title_en": "Letters & Treatises — Shaykh Muhammad ibn Abd al-Wahhab",
+      "topics_ar": "الرسائل الموجهة إلى علماء مكة والمدينة، رسائل أهل الرياض وحريملاء، نصائح وتوجيهات للدعاة",
+      "topics_ms": "Surat kepada Ulama Makkah dan Madinah, Surat kepada Penduduk Riyadh dan Huraimila, Nasihat Pendakwah",
+      "topics_en": "Letters to Scholars of Makkah and Madinah, Correspondence with Rulers and Tribes",
+      "key_scholars": [
+        "الشيخ محمد بن عبد الوهاب"
+      ]
+    },
+    {
+      "volume": 12,
+      "title_ar": "كتاب المكاتيب والرسائل — مكاتيب أبناء الشيخ وتلاميذه",
+      "title_ms": "Surat-menyurat & Risalah — Anak-anak & Murid Syeikh",
+      "title_en": "Letters & Treatises — Sons and Direct Disciples",
+      "topics_ar": "رسائل الشيخ حسين والشيخ عبد الله والشيخ علي والشيخ إبراهيم أبناء الإمام محمد بن عبد الوهاب",
+      "topics_ms": "Surat-surat Syeikh Husain, Abdullah, Ali, dan Ibrahim putera Imam Muhammad bin Abdul Wahhab",
+      "topics_en": "Epistles and Official Diplomatic Documents by the Sons and Successors of the Imam",
+      "key_scholars": [
+        "الشيخ عبد الله بن محمد بن عبد الوهاب",
+        "الشيخ حسين بن محمد بن عبد الوهاب"
+      ]
+    },
+    {
+      "volume": 13,
+      "title_ar": "كتاب المكاتيب والرسائل — مكاتيب أئمة الدعوة اللاحقين",
+      "title_ms": "Surat-menyurat & Risalah — Ulama Generasi Seterusnya",
+      "title_en": "Letters & Treatises — Later Najdi Imams & Scholars",
+      "topics_ar": "رسائل ومكاتيب الشيخ عبد الرحمن بن حسن، والشيخ عبد اللطيف بن عبد الرحمن، وفتاوى أئمة القرن 13 و14",
+      "topics_ms": "Koleksi Risalah Syeikh Abdul Rahman bin Hasan dan Syeikh Abdul Latif bin Abdul Rahman",
+      "topics_en": "Letters and Official Declarations of 19th and Early 20th Century Najdi Jurisconsults",
+      "key_scholars": [
+        "الشيخ عبد الرحمن بن حسن آل الشيخ",
+        "الشيخ عبد اللطيف بن عبد الرحمن آل الشيخ",
+        "الشيخ عبد الله بن عبد اللطيف آل الشيخ"
+      ]
+    },
+    {
+      "volume": 14,
+      "title_ar": "كتاب المناصحات والوعظ والإرشاد",
+      "title_ms": "Nasihat, Khutbah dan Peringatan",
+      "title_en": "Exhortations, Sermons & Counsel",
+      "topics_ar": "نصائح ولاة الأمر والرعايا، الآداب الإسلامية، الأمر بالمعروف والنهي عن المنكر، مواعظ الرقائق",
+      "topics_ms": "Nasihat kepada Pemerintah dan Rakyat, Adab Islamiah, Amar Makruf Nahi Mungkar, Penyucian Jiwa",
+      "topics_en": "Counsel to Leaders and the Public, Islamic Etiquette, Enjoining Good and Forbidding Evil",
+      "key_scholars": [
+        "الشيخ محمد بن عبد الوهاب",
+        "الشيخ سليمان بن عبد الله آل الشيخ"
+      ]
+    },
+    {
+      "volume": 15,
+      "title_ar": "كتاب الوظائف والخطب والأشعار والمجاميع",
+      "title_ms": "Amalan Musim, Khutbah, Zikir dan Puisi Ilmiah",
+      "title_en": "Seasonal Devotions, Sermons, Adhkar & Didactic Poetry",
+      "topics_ar": "وظائف شهر رمضان والأشهر الحرم، الأدعية والأوراد المأثورة، القصائد العلمية والردود المنظومة",
+      "topics_ms": "Amalan Bulan Ramadan, Zikir Harian, Doa Mathur, Puisi Ilmiah dalam Menjelaskan Akidah",
+      "topics_en": "Ramadan Devotions, Invocations, Supplications, Scientific Poetry and Defenses of the Sunnah",
+      "key_scholars": [
+        "الشيخ محمد بن عبد الوهاب",
+        "الشيخ أحمد بن إبراهيم بن عيسى"
+      ]
+    },
+    {
+      "volume": 16,
+      "title_ar": "الفهارس العامة والتراجم والزوائد",
+      "title_ms": "Indeks Am, Biografi Ulama & Pelengkap",
+      "title_en": "General Indices, Biographies & Supplements",
+      "topics_ar": "فهرس الآيات القرآنية، فهرس الأحاديث النبوية، فهرس الآثار، تراجم علماء وأئمة الدعوة النجدية",
+      "topics_ms": "Indeks Ayat al-Quran, Indeks Hadis Nabawi, Indeks Athar, Biografi Ringkas Para Ulama Najd",
+      "topics_en": "Comprehensive Indices of Quranic Verses, Hadiths, Athar, and Biographies of Najdi Scholars",
+      "key_scholars": [
+        "جامع الموسوعة: الشيخ عبد الرحمن بن محمد بن قاسم"
+      ]
+    }
+  ],
+  "treatises": [
+    {
+      "id": "durar-01-001",
+      "volume": 1,
+      "treatise_number": 1,
+      "title_ar": "الأصول الثلاثة وأدلتها",
+      "title_ms": "Tiga Prinsip Utama dan Dalil-dalilnya",
+      "title_en": "The Three Fundamental Principles and Their Evidences",
+      "author_ar": "الشيخ الإمام محمد بن عبد الوهاب (1115–1206 هـ)",
+      "author_ms": "Syeikh al-Islam Muhammad bin Abdul Wahhab (1115–1206 H)",
+      "author_en": "Shaykh al-Islam Muhammad ibn Abd al-Wahhab (1115–1206 AH)",
+      "category": "aqidah",
+      "summary_ms": "Risalah muktabar yang menjelaskan tiga soalan asas alam kubur: mengenal Allah, mengenal agama Islam dengan dalil, dan mengenal Nabi Muhammad ﷺ.",
+      "summary_en": "A foundational treatise elucidating the three questions of the grave: knowledge of Allah, knowledge of Islam with proofs, and knowledge of the Prophet Muhammad ﷺ.",
+      "sections": [
+        {
+          "heading_ar": "المقدمة: المسائل الأربع الواجبة",
+          "heading_ms": "Mukadimah: Empat Perkara Wajib",
+          "heading_en": "Introduction: Four Obligatory Matters",
+          "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. اعْلَمْ رَحِمَكَ اللَّهُ أَنَّهُ يَجِبُ عَلَيْنَا تَعَلُّمُ أَرْبَعِ مَسَائِلَ:\nالأُولَى: الْعِلْمُ، وَهُوَ مَعْرِفَةُ اللَّهِ، وَمَعْرِفَةُ نَبِيِّهِ، وَمَعْرِفَةُ دِينِ الإِسْلامِ بِالأَدِلَّةِ.\nالثَّانِيَةُ: الْعَمَلُ بِهِ.\nالثَّالِثَةُ: الدَّعْوَةُ إِلَيْهِ.\nالرَّابِعَةُ: الصَّبْرُ عَلَى الأَذَى فِيهِ.\nوَالدَّلِيلُ قَوْلُهُ تَعَالَى: {وَالْعَصْرِ * إِنَّ الْإِنسَانَ لَفِي خُسْرٍ * إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ}.",
+          "translation_ms": "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang. Ketahuilah — semoga Allah merahmatimu — bahawa wajib ke atas kita mempelajari empat perkara:\nPertama: Ilmu, iaitu mengenal Allah, mengenal Nabi-Nya, dan mengenal agama Islam berserta dalil-dalilnya.\nKedua: Beramal dengannya.\nKetiga: Berdakwah kepadanya.\nKeempat: Bersabar atas segala ujian dan rintangan padanya.\nDalilnya adalah firman Allah Taala: {Demi masa! Sesungguhnya manusia itu benar-benar berada dalam kerugian, kecuali orang-orang yang beriman dan beramal soleh serta saling berpesan-pesan dengan kebenaran dan saling berpesan-pesan dengan kesabaran.} (Surah al-'Asr: 1-3).",
+          "translation_en": "In the name of Allah, the Entirely Merciful, the Especially Merciful. Know, may Allah have mercy on you, that it is obligatory upon us to learn four matters:\nFirst: Knowledge, which is knowing Allah, knowing His Prophet, and knowing the religion of Islam with evidences.\nSecond: Acting upon it.\nThird: Calling to it.\nFourth: Exercising patience regarding hardship encountered therein.\nThe proof is His saying: {By time, indeed, mankind is in loss, except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.} (Surah al-'Asr)."
+        },
+        {
+          "heading_ar": "الأصل الأول: معرفة العبد ربه",
+          "heading_ms": "Prinsip Pertama: Mengenal Allah Tuhan Sekalian Alam",
+          "heading_en": "First Principle: Knowledge of the Lord",
+          "arabic": "فَإِذَا قِيلَ لَكَ: مَنْ رَبُّكَ؟ فَقُلْ: رَبِّيَ اللَّهُ الَّذِي رَبَّانِي وَرَبَّى جَمِيعَ الْعَالَمِينَ بِنِعَمِهِ، وَهُوَ مَعْبُودِي لَيْسَ لِي مَعْبُودٌ سِوَاهُ، وَالدَّلِيلُ قَوْلُهُ تَعَالَى: {الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ}، وَكُلُّ مَا سِوَى اللَّهِ عَالَمٌ، وَأَنَا وَاحِدٌ مِنْ ذَلِكَ الْعَالَمِ.",
+          "translation_ms": "Sekiranya ditanyakan kepadamu: 'Siapakah Tuhanmu?' Maka katakanlah: 'Tuhanku ialah Allah yang telah memeliharaku dan memelihara seluruh alam dengan limpahan nikmat-Nya. Dan Dia adalah sembahanku, tiada bagiku sesembahan yang berhak disembah selain daripada-Nya.' Dalilnya adalah firman Allah Taala: {Segala puji tertentu bagi Allah, Tuhan yang memelihara dan mentadbir sekalian alam} (Surah al-Fatihah: 2).",
+          "translation_en": "If it is said to you: 'Who is your Lord?' Then say: 'My Lord is Allah, who has nurtured me and nurtured all the worlds with His blessings, and He is my deity; I have no deity besides Him.' The proof is His saying: {Praise be to Allah, Lord of the worlds} (Surah al-Fatihah: 2)."
+        },
+        {
+          "heading_ar": "الأصل الثاني: معرفة دين الإسلام بالأدلة",
+          "heading_ms": "Prinsip Kedua: Mengenal Agama Islam dengan Dalil",
+          "heading_en": "Second Principle: Knowledge of Islam with Proofs",
+          "arabic": "الأَصْلُ الثَّانِي: مَعْرِفَةُ دِينِ الإِسْلامِ بِالأَدِلَّةِ، وَهُوَ: الاسْتِسْلامُ لِلَّهِ بِالتَّوْحِيدِ، وَالانْقِيَادُ لَهُ بِالطَّاعَةِ، وَالْبَرَاءَةُ مِنَ الشِّرْكِ وَأَهْلِهِ. وَهُوَ ثَلاثُ مَرَاتِبَ: الإِسْلامُ، وَالإِيمَانُ، وَالإِحْسَانُ، وَكُلُّ مَرْتَبَةٍ لَهَا أَرْكَانٌ.",
+          "translation_ms": "Prinsip kedua: Mengenal agama Islam berserta dalil-dalilnya, iaitu: Berserah diri kepada Allah dengan mentauhidkan-Nya, tunduk patuh kepada-Nya dengan ketaatan, serta berlepas diri daripada syirik dan para pelakunya. Dan ia merangkumi tiga tingkatan: Islam, Iman, dan Ihsan; setiap tingkatan mempunyai rukun-rukunnya.",
+          "translation_en": "The second principle: Knowledge of the religion of Islam with proofs, which is: Submission to Allah with Tawhid, compliance to Him with obedience, and disavowal of Shirk and its adherents. It consists of three levels: Islam, Iman, and Ihsan, and each level has its pillars."
+        },
+        {
+          "heading_ar": "الأصل الثالث: معرفة نبيكم محمد ﷺ",
+          "heading_ms": "Prinsip Ketiga: Mengenal Nabi Muhammad ﷺ",
+          "heading_en": "Third Principle: Knowledge of the Prophet Muhammad ﷺ",
+          "arabic": "الأَصْلُ الثَّالِثُ: مَعْرِفَةُ نَبِيِّكُمْ مُحَمَّدٍ ﷺ، وَهُوَ مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الْمُطَّلِبِ بْنِ هَاشِمٍ، وَهَاشِمٌ مِنْ قُرَيْشٍ، وَقُرَيْشٌ مِنَ الْعَرَبِ، وَالْعَرَبُ مِنْ ذُرِّيَّةِ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ الْخَلِيلِ عَلَيْهِمَا وَعَلَى نَبِيِّنَا أَفْضَلُ الصَّلاةِ وَالسَّلامِ.",
+          "translation_ms": "Prinsip ketiga: Mengenal Nabimu Muhammad ﷺ. Beliau ialah Muhammad bin Abdullah bin Abdul Muttalib bin Hashim. Hashim daripada kaum Quraisy, Quraisy daripada bangsa Arab, dan Arab daripada keturunan Nabi Ismail putera Nabi Ibrahim al-Khalil — ke atas mereka dan ke atas Nabi kita selawat serta salam yang paling utama.",
+          "translation_en": "The third principle: Knowledge of your Prophet Muhammad ﷺ. He is Muhammad ibn Abdillah ibn Abd al-Muttalib ibn Hashim. Hashim was from Quraysh, Quraysh was from the Arabs, and the Arabs are from the descendants of Isma'il, the son of Ibrahim al-Khalil — upon them and upon our Prophet be the best blessings and peace."
+        }
+      ]
+    },
+    {
+      "id": "durar-01-002",
+      "volume": 1,
+      "treatise_number": 2,
+      "title_ar": "القواعد الأربع",
+      "title_ms": "Empat Kaedah Asas Tauhid",
+      "title_en": "The Four Foundations of Monotheism",
+      "author_ar": "الشيخ الإمام محمد بن عبد الوهاب (1115–1206 هـ)",
+      "author_ms": "Syeikh al-Islam Muhammad bin Abdul Wahhab (1115–1206 H)",
+      "author_en": "Shaykh al-Islam Muhammad ibn Abd al-Wahhab (1115–1206 AH)",
+      "category": "aqidah",
+      "summary_ms": "Empat kaedah penting untuk membezakan tauhid hakiki daripada syirik orang musyrikin terdahulu.",
+      "summary_en": "Four vital foundations clarifying the essence of Tawhid versus the arguments and justifications of polytheists.",
+      "sections": [
+        {
+          "heading_ar": "القاعدة الأولى: الإقرار بالربوبية لا يكفي للدخول في الإسلام",
+          "heading_ms": "Kaedah Pertama: Mengakui Rububiyyah Tidak Memadai Tanpa Uluhiyyah",
+          "heading_en": "First Foundation: Acknowledging Rububiyyah Alone Is Insufficient",
+          "arabic": "الْقَاعِدَةُ الأُولَى: أَنْ تَعْلَمَ أَنَّ الْكُفَّارَ الَّذِينَ قَاتَلَهُمْ رَسُولُ اللَّهِ ﷺ مُقِرُّونَ بِأَنَّ اللَّهَ هُوَ الْخَالِقُ الرَّازِقُ الْمُدَبِّرُ، وَأَنَّ ذَلِكَ لَمْ يُدْخِلْهُمْ فِي الإِسْلامِ، وَالدَّلِيلُ قَوْلُهُ تَعَالَى: {قُلْ مَن يَرْزُقُكُم مِّنَ السَّمَاءِ وَالْأَرْضِ أَمَّن يَمْلِكُ السَّمْعَ وَالْأَبْصَارَ وَمَن يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَمَن يُدَبِّرُ الْأَمْرَ فَسَيَقُولُونَ اللَّهُ فَقُلْ أَفَلَا تَتَّقُونَ}.",
+          "translation_ms": "Kaedah Pertama: Ketahuilah bahawa orang-orang kafir yang diperangi oleh Rasulullah ﷺ mengakui bahawa Allah ialah Pencipta, Pemberi Rezeki, dan Pengatur sekalian alam, namun pengakuan itu tidak memasukkan mereka ke dalam Islam (kerana mempersekutukan Allah dalam ibadah). Dalilnya firman Allah Taala: {Katakanlah: Siapakah yang memberi rezeki kepadamu dari langit dan bumi... nescaya mereka akan menjawab: Allah! Maka katakanlah: Mengapa kamu tidak bertakwa?} (Surah Yunus: 31).",
+          "translation_en": "The First Foundation: Know that the disbelievers fought by the Messenger of Allah ﷺ acknowledged that Allah is the Creator, the Provider, the Disposer of affairs, yet that acknowledgment did not enter them into Islam. The proof is His saying: {Say, 'Who provides for you from the heaven and the earth...?' They will say, 'Allah.' Say, 'Then will you not fear Him?'} (Surah Yunus: 31)."
+        },
+        {
+          "heading_ar": "القاعدة الثانية: قصد الشفاعة والتقرب إلى الله بغيره شرك",
+          "heading_ms": "Kaedah Kedua: Menjadikan Perantara untuk Syafaat Ialah Syirik",
+          "heading_en": "Second Foundation: Seeking Intercession via Intermediaries Is Shirk",
+          "arabic": "الْقَاعِدَةُ الثَّانِيَةُ: أَنَّهُمْ يَقُولُونَ: مَا دَعَوْنَاهُمْ وَتَوَجَّهْنَا إِلَيْهِمْ إِلا لِطَلَبِ الْقُرْبَةِ وَالشَّفَاعَةِ، فَدَلِيلُ الْقُرْبَةِ قَوْلُهُ تَعَالَى: {وَالَّذِينَ اتَّخَذُوا مِن دُونِهِ أَوْلِيَاءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَى}، وَدَلِيلُ الشَّفَاعَةِ قَوْلُهُ تَعَالَى: {وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ وَيَقُولُونَ هَؤُلَاءِ شُفَعَاؤُنَا عِندَ اللَّهِ}.",
+          "translation_ms": "Kaedah Kedua: Bahawa mereka berkata: 'Kami tidak berdoa dan menghadap kepada mereka melainkan semata-mata untuk mendekatkan diri kepada Allah dan memohon syafaat.' Dalilnya firman Allah: {Dan orang-orang yang mengambil selain Allah sebagai pelindung (berkata): Kami tidak menyembah mereka melainkan supaya mereka mendekatkan kami kepada Allah sehampir-hampirnya} (Surah az-Zumar: 3).",
+          "translation_en": "The Second Foundation: They claimed: 'We only supplicated and turned to them to seek closeness and intercession.' The proof is His saying: {And those who take protectors besides Him say, 'We only worship them that they may bring us nearer to Allah in position.'} (Surah az-Zumar: 3)."
+        }
+      ]
+    },
+    {
+      "id": "durar-01-003",
+      "volume": 1,
+      "treatise_number": 3,
+      "title_ar": "نواقض الإسلام العشرة",
+      "title_ms": "Sepuluh Pembatal Keislaman",
+      "title_en": "The Ten Nullifiers of Islam",
+      "author_ar": "الشيخ الإمام محمد بن عبد الوهاب (1115–1206 هـ)",
+      "author_ms": "Syeikh al-Islam Muhammad bin Abdul Wahhab (1115–1206 H)",
+      "author_en": "Shaykh al-Islam Muhammad ibn Abd al-Wahhab (1115–1206 AH)",
+      "category": "aqidah",
+      "summary_ms": "Penjelasan ringkas sepuluh perkara paling bahaya yang membatalkan keislaman seseorang.",
+      "summary_en": "A concise breakdown of the ten most severe nullifiers that invalidate one's Islamic faith.",
+      "sections": [
+        {
+          "heading_ar": "النواقض الثلاثة الأولى",
+          "heading_ms": "Tiga Pembatal Pertama",
+          "heading_en": "The First Three Nullifiers",
+          "arabic": "اعْلَمْ أَنَّ نَوَاقِضَ الإِسْلامِ عَشَرَةٌ:\nالأَوَّلُ: الشِّرْكُ فِي عِبَادَةِ اللَّهِ تَعَالَى، وَمِنْهُ الذَّبْحُ لِغَيْرِ اللَّهِ كَمَنْ يَذْبَحُ لِلْجِنِّ أَوْ لِلْقَبْرِ.\nالثَّانِي: مَنْ جَعَلَ بَيْنَهُ وَبَيْنَ اللَّهِ وَسَائِطَ، يَدْعُوهُمْ وَيَسْأَلُهُمُ الشَّفَاعَةَ وَيَتَوَكَّلُ عَلَيْهِمْ؛ كَفَرَ إِجْمَاعاً.\nالثَّالِثُ: مَنْ لَمْ يُكَفِّرِ الْمُشْرِكِينَ أَوْ شَكَّ فِي كُفْرِهِمْ أَوْ صَحَّحَ مَذْهَبَهُمْ كَفَرَ.",
+          "translation_ms": "Ketahuilah bahawa pembatal keislaman ada sepuluh:\nPertama: Syirik dalam ibadah kepada Allah Taala, termasuk menyembelih korban untuk selain Allah seperti jin atau kubur keramat.\nKedua: Sesiapa yang mengadakan perantara antara dirinya dengan Allah, berdoa kepada mereka, meminta syafaat daripada mereka, dan bertawakal kepada mereka; dia telah kufur secara ijmak.\nKetiga: Sesiapa yang tidak mengkafirkan orang-orang musyrik, atau ragu-ragu tentang kekufuran mereka, atau membenarkan fahaman mereka, dia telah kufur.",
+          "translation_en": "Know that the nullifiers of Islam are ten:\nFirst: Shirk in the worship of Allah Ta'ala, which includes slaughtering for other than Allah, such as for jinn or tombs.\nSecond: Whoever places intermediaries between himself and Allah, invoking them, asking them for intercession, and placing trust in them has disbelieved by scholarly consensus.\nThird: Whoever does not declare the polytheists disbelievers, or doubts their disbelief, or validates their belief system has disbelieved."
+        }
+      ]
+    }
+  ]
 }

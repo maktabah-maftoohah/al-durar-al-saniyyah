@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Maktabah Maftoohah — Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah</title>
-  <meta name="description" content="Maktabah Maftoohah — Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah (الدرر السنية في الأجوبة النجدية) — Zero-Build Digital Islamic Heritage Library.">
+  <meta name="description" content="Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah (الدرر السنية في الأجوبة النجدية) — Ensiklopedia 16 jilid fatwa, risalah dan jawapan para ulama Najd dalam format digital sifar-bina luar talian.">
   <link rel="canonical" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/">
 
   <!-- Multilingual Alternates -->
@@ -15,19 +15,26 @@
 
   <!-- Open Graph & Social Cards -->
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Maktabah Maftoohah — Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah">
-  <meta property="og:title" content="Maktabah Maftoohah — Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah">
-  <meta property="og:description" content="Maktabah Maftoohah — Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah (الدرر السنية في الأجوبة النجدية) — Zero-Build Digital Islamic Heritage Library.">
+  <meta property="og:site_name" content="Maktabah Maftoohah">
+  <meta property="og:title" content="Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah (الدرر السنية)">
+  <meta property="og:description" content="Ensiklopedia 16 jilid risalah akidah, fiqh Hanbali, fatwa, dan surat-menyurat para ulama Najd.">
   <meta property="og:url" content="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/">
+  <meta property="og:image" content="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/icon.svg">
 
   <!-- Structured Data JSON-LD -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Book",
-    "name": "Maktabah Maftoohah — Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah",
+    "name": "Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah",
+    "alternateName": "الدرر السنية في الأجوبة النجدية",
     "url": "https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/",
     "inLanguage": ["ar", "ms", "en"],
+    "numberOfPages": "7000+",
+    "author": {
+      "@type": "Person",
+      "name": "Shaykh Abd al-Rahman ibn Muhammad ibn Qasim al-Najdi"
+    },
     "publisher": {
       "@type": "Organization",
       "name": "Maktabah Maftoohah",
@@ -42,34 +49,96 @@
   <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700;800&family=Scheherazade+New:wght@400;700&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="./css/main.css">
+  <link rel="icon" type="image/svg+xml" href="./icon.svg">
   <link rel="manifest" href="./manifest.webmanifest">
   <meta name="theme-color" content="#064e3b">
 </head>
 <body>
   <header class="app-header">
     <div class="header-container">
-      <div class="brand-group">
-        <h1 class="app-title">Maktabah Maftoohah — Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah</h1>
-        <p class="app-title-ar" dir="rtl">الدرر السنية في الأجوبة النجدية</p>
-      </div>
+      <a href="https://maktabah-maftoohah.github.io/" class="brand-link" title="Ke Portal Maktabah Maftoohah">
+        <img src="./icon.svg" alt="Al-Durar al-Saniyyah Logo" class="brand-logo">
+        <div class="brand-group">
+          <h1 class="app-title">Al-Durar al-Saniyyah</h1>
+          <p class="app-title-ar" dir="rtl">الدرر السنية في الأجوبة النجدية</p>
+        </div>
+      </a>
       <div class="header-actions">
-        <button id="themeToggle" class="btn-icon" title="Tukar Tema">🌙</button>
-        <button id="langToggle" class="btn-pill" title="Tukar Bahasa">MY / EN</button>
+        <button id="themeToggle" class="btn-icon" title="Tukar Tema (Gelap / Terang)" aria-label="Tukar Tema">🌙</button>
+        <button id="langToggle" class="btn-pill" title="Tukar Bahasa Paparan">MY</button>
       </div>
     </div>
   </header>
 
   <main class="app-main">
+    <!-- Hero Header -->
     <section class="hero-section">
-      <p class="hero-desc">Maktabah Maftoohah — Perpustakaan Digital Terbuka</p>
+      <h2 class="hero-heading">Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah</h2>
+      <h3 class="hero-heading-ar" dir="rtl">الدرر السنية في الأجوبة النجدية</h3>
+      <p class="hero-meta">
+        Himpunan 16 Jilid Risalah, Fatwa, dan Hujah Para Ulama Najd (Kurun 12–14H).<br>
+        Disusun &amp; Ditahqiq oleh <strong>Syeikh Abdul Rahman bin Muhammad bin Qasim al-Najdi al-Hanbali</strong> (1312–1392 H).
+      </p>
+      <div class="meta-badges">
+        <span class="badge-tag">16 Jilid Lengkap</span>
+        <span class="badge-tag">Akidah &amp; Tauhid</span>
+        <span class="badge-tag">Fiqh Mazhab Hanbali</span>
+        <span class="badge-tag">Sifar-Bina (Zero-Build)</span>
+        <span class="badge-tag">Luar Talian (PWA)</span>
+      </div>
     </section>
+
+    <!-- Controls Bar -->
+    <div class="controls-bar">
+      <!-- Search Input -->
+      <div class="search-wrapper">
+        <span class="search-icon">🔍</span>
+        <input
+          type="search"
+          id="searchInput"
+          class="search-input"
+          placeholder="Cari risalah, bab, topik, atau teks Arab..."
+          autocomplete="off"
+        >
+        <button id="searchClear" class="search-clear" style="display:none;" title="Padam Carian">&times;</button>
+      </div>
+
+      <!-- Tabs and View Controls -->
+      <div class="tabs-bar">
+        <div class="view-toggles">
+          <button id="viewTreatisesBtn" class="btn-pill active">📖 Teks Risalah</button>
+          <button id="viewVolumesBtn" class="btn-pill">📚 Katalog 16 Jilid</button>
+        </div>
+
+        <div class="font-controls">
+          <span>Saiz Arab:</span>
+          <button id="fontDecBtn" class="btn-icon" title="Kecilkan Saiz Teks Arab">A-</button>
+          <button id="fontResetBtn" class="btn-icon" title="Set Semula Saiz">A</button>
+          <button id="fontIncBtn" class="btn-icon" title="Besarkan Saiz Teks Arab">A+</button>
+        </div>
+      </div>
+
+      <!-- Volume Scroll Strip -->
+      <nav id="volumeScroll" class="volume-scroll" aria-label="Pilih Jilid">
+        <!-- Rendered by app.js -->
+      </nav>
+    </div>
+
+    <!-- Main Content Container -->
     <section id="contentView" class="content-container">
-      <p class="loading-state">Memuatkan kandungan...</p>
+      <p class="loading-state">Memuatkan kandungan risalah dan ensiklopedia...</p>
     </section>
   </main>
 
   <footer class="app-footer">
-    <p>Maktabah Maftoohah — Zero-Build Open Islamic Heritage</p>
+    <nav class="footer-nav">
+      <a href="https://maktabah-maftoohah.github.io/" class="footer-link">Portal Utama</a>
+      <a href="https://maktabah-maftoohah.github.io/al-quran/" class="footer-link">Al-Quran</a>
+      <a href="https://maktabah-maftoohah.github.io/sahih-muslim/" class="footer-link">Sahih Muslim</a>
+      <a href="https://maktabah-maftoohah.github.io/sunan-an-nasai/" class="footer-link">Sunan an-Nasa'i</a>
+      <a href="https://maktabah-maftoohah.github.io/bulugh-al-maram/" class="footer-link">Bulugh al-Maram</a>
+    </nav>
+    <p>Maktabah Maftoohah (المكتبة المفتوحة) — Inisiatif Pemeliharaan Khazanah Warisan Islam Terbuka &amp; Sifar-Bina.</p>
   </footer>
 
   <script type="module" src="./js/app.js"></script>

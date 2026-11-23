@@ -1,0 +1,17 @@
+{
+  "name": "Maktabah Maftoohah — Al-Durar al-Saniyyah fi al-Ajwibah al-Najdiyyah",
+  "short_name": "Al-Durar al-Saniyyah",
+  "description": "Zero-build, offline-first digital reader for the 16-volume collection of treatises, fatwas, and legal answers of Najdi scholars.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#064e3b",
+  "lang": "ms",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

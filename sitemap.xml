@@ -7,8 +7,45 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?lang=en" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?lang=ar" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/" />
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <!-- Volume Deep Links -->
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=1</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=1&amp;lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=1&amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=1&amp;lang=ar" />
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=2</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=2&amp;lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=2&amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=2&amp;lang=ar" />
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=3</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=3&amp;lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=3&amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=3&amp;lang=ar" />
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=4</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=4&amp;lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=4&amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maktabah-maftoohah.github.io/al-durar-al-saniyyah/?vol=4&amp;lang=ar" />
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
