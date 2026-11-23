@@ -1,10 +1,10 @@
-const CACHE_NAME = 'durar-reader-v1';
+const CACHE_NAME = 'durar-reader-v2';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './404.html',
-  './css/main.css',
-  './js/app.js',
+  './css/main.css?v=2',
+  './js/app.js?v=2',
   './data/collection.json',
   './manifest.webmanifest',
   './icon.svg'

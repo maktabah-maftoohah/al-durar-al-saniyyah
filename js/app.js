@@ -430,7 +430,13 @@ class DurarReader {
   }
 }
 
-document.addEventListener('DOMContentLoaded', () => {
+function startApp() {
   const reader = new DurarReader();
   reader.init();
-});
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', startApp);
+} else {
+  startApp();
+}
